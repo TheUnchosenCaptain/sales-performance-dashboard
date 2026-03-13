@@ -4,11 +4,11 @@ An interactive **Power BI dashboard** designed to analyze executive sales perfor
 
 ## Key Features
 
-• Revenue and profit KPIs
-• Regional sales breakdown
-• Product category analysis
-• Monthly revenue trends
-• Executive performance comparison
+* Revenue and profit KPIs
+* Regional sales breakdown
+* Product category analysis
+* Monthly revenue trends
+* Executive performance comparison
 
 ## Tools Used
 
